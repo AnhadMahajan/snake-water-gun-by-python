@@ -40,7 +40,7 @@ else:
         print("You Win!")
 
      elif(computer == 0 and you == 1): 
-        computer - you) = -1
+        (computer - you) = -1
         print("You Lose!") 
 
  
